@@ -6,7 +6,7 @@
   "company_website": "https://nodesync.top",
   "client_version": "v1.0.0",
   "icon": {
-    "14x14": { "@1x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-1.png", "@2x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-3.png", "@3x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-5.png" },
-    "24x24": { "@1x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-2.png", "@2x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-4.png", "@3x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-6.png" }
+    "14x14": { "@1x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-1.jpg", "@2x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-3.jpg", "@3x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-5.jpg" },
+    "24x24": { "@1x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-2.jpg", "@2x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-4.jpg", "@3x": "https://raw.githubusercontent.com/nodesynctop/espresso-metadata/refs/heads/main/icon-6.jpg" }
   }
 }
